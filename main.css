@@ -8,6 +8,7 @@ font-family: "monospace", monospace;
    bottom: 480px;
    text-align: center;
    width: 100%;
+margin: auto;
 }
 p {
     font-family: ;
@@ -17,28 +18,28 @@ p {
 font-family: "monospace", monospace;
  position: absolute;
    bottom: 450px;
-   text-align: center;
+   margin: auto;
    width: 100%;
 }
 
 a {
-    margin: center;
+    text-align: center;
     background-color: 	#000000; 
     border: black;
     color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
-    display: inline;
+    display: inline-block;
     font-size: 20px;
     border-radius: 12px;
-    position: absolute;
-   bottom: 425px;
-   
+margin: auto;
+   bottom: 10000px;
+   margin-left:auto;margin-right:auto;;margin-top:39%;margin-bottom:0%
 }
 
 html {
-background: #505D6E url("http://www.kemecer.com/i/hd-basketball-court-wallpaper-desktop-background.jpg") no-repeat center center fixed;
+background: #505D6E url("/image1.jpg") no-repeat center center fixed;
 min-height: 100%;
   -webkit-background-size: cover;
     -moz-background-size: cover;
